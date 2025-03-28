@@ -62,6 +62,7 @@ Edit your `.blameit/config.json` to define issue templates:
 
 BlameIt is **open-source** under the [MIT License](LICENSE).
 
+
 ## 💖 Contributing
 
 Contributions are welcome! Open an issue, submit a PR, or discuss improvements in the [GitHub Discussions](https://github.com/hunter87ff/blameit/discussions)!
